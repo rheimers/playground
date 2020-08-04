@@ -1,0 +1,14 @@
+:root {
+  --main-bg-color: yellow;
+}
+
+body {
+  background-color: var(--main-bg-color);
+  color: salmon;
+}
+
+button {
+  border: 1px solid #fff;
+  background-color: #000;
+  color: salmon;
+}
